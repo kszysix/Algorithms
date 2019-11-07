@@ -1,1 +1,1 @@
-# Algorithms
+# Some algorithms and exercises
